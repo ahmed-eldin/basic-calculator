@@ -1,5 +1,6 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="778" alt="Screenshot 2023-07-31 at 4 13 40 PM" src="https://github.com/ahmed-eldin/basic-calculator/assets/111728755/4d7f8154-1c64-4d21-a586-1c66a514ce17">
+
 
 
 # JavaScript Calculator Application
